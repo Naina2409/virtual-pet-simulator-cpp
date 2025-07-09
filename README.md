@@ -1,6 +1,14 @@
 # Virtual Pet Simulator (C++)
-[![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https:
-//opensource.org/licenses/MIT)
 
+A console-based game where you care for a digital pet.
+
+## How It Works
+- **Feeding System**: Pet's hunger increases over time
+- **Mini-Games**: Play activities to boost happiness
+- **Health Tracking**: Monitor mood/energy levels
+
+## Run the Program
+```bash
+g++ code.cpp -o petgame
+./petgame
 
